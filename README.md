@@ -14,3 +14,4 @@
 <!-- 카드 언어 설정 &locale=kr 추가 -->
 
 
+sd{: .text-right }
