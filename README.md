@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 <!--git tier -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maktony1&show_icons=true&bg_color="#000000"&title_color="000000")](https://github.com/anuraghazra/github-readme-stats) <!--Most Lang-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maktony1&layout=compact&show_icons=true&bg_color=#222222)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maktony1&layout=compact&bg_color=angle)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--algorithm tier-->
